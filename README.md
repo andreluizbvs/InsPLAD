@@ -1,6 +1,6 @@
 # Inspection of Power Line Assets: the Dataset (InsPLAD) 
 
-This repository stores InsPLAD, a dataset presented in the paper "InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images".
+This repository stores InsPLAD, a dataset presented in "InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images".
 
 You can download the dataset [here](https://drive.google.com/drive/folders/1psHiRyl7501YolnCcB8k55rTuAUcR9Ak?usp=sharing). Labels, when applicable, are in the zip files.
 
@@ -33,9 +33,9 @@ In the link above you will find three zip files:
 
 ## InsPLAD-fault
 
-### Supervised Fault Classification
+#### Supervised Fault Classification
 - Image Classification dataset
-- Five assets, two to three classes each (defect types, e.g., corrosion)
+- Five assets, 2 to 3 classes each (defect types, e.g., corrosion)
 
 <!--
 #### Benchmark
@@ -43,9 +43,9 @@ In the link above you will find three zip files:
 <img src="https://i.imgur.com/HkRHjJD.png" width="600">
 -->
 
-### Unsupervised Anomaly Detection
+#### Unsupervised Anomaly Detection
 - Anomaly Detection dataset
-- Five assets, two classes each (normal or anomalous)  
+- Five assets, 2 classes each (normal or anomalous)  
 
 <!--
 #### Benchmark
@@ -60,3 +60,9 @@ In the link above you will find three zip files:
 ### Properties
 
 <img src="https://i.imgur.com/fz5sAsI.png" width="600">
+
+## Citing
+
+```
+
+```
