@@ -2,7 +2,7 @@
 
 This repository stores InsPLAD, a dataset presented in "InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images".
 
-You can download the dataset [here](https://drive.google.com/drive/folders/1psHiRyl7501YolnCcB8k55rTuAUcR9Ak?usp=sharing). Labels, when applicable, are in the zip files.
+You can download the dataset [**here**](https://drive.google.com/drive/folders/1psHiRyl7501YolnCcB8k55rTuAUcR9Ak?usp=sharing). Labels, when applicable, are in the zip files.
 
 In the link above you will find three zip files:
 
