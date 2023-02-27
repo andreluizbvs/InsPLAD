@@ -21,12 +21,12 @@ In the link above you will find three zip files:
 - 28,933 total instances
 - Other properties:
 
-<img src="https://i.imgur.com/PEAjChU.png" width="600">
+<img src="https://i.imgur.com/PEAjChU.png" width="650">
 
 
 ### Samples
 
-<img src="https://i.imgur.com/s0ofrRH.png" width="600">
+<img src="https://i.imgur.com/s0ofrRH.png" width="650">
 
 <!--
 #### Benchmark
@@ -40,7 +40,7 @@ InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped a
 
 ### Properties
 
-<img src="https://i.imgur.com/fz5sAsI.png" width="600">
+<img src="https://i.imgur.com/fz5sAsI.png" width="650">
 
 #### Supervised Fault Classification
 - Image Classification dataset
@@ -68,7 +68,7 @@ InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped a
 
 ### Samples
 
-<img src="https://i.imgur.com/miLnAKH.png" width="600">
+<img src="https://i.imgur.com/miLnAKH.png" width="650">
 
 
 
