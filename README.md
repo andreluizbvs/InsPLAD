@@ -13,17 +13,20 @@ In the link above you will find three zip files:
   
 ## InsPLAD-det
 
+
+### Properties
 - Object Detection dataset
 - 17 classes (assets categories)
-- 10,607 images
+- 10,607 total images
+- 28,933 total instances
+- Other properties:
+
+<img src="https://i.imgur.com/PEAjChU.png" width="600">
+
 
 ### Samples
 
 <img src="https://i.imgur.com/s0ofrRH.png" width="600">
-
-### Properties
-
-<img src="https://i.imgur.com/PEAjChU.png" width="600">
 
 <!--
 #### Benchmark
@@ -33,9 +36,16 @@ In the link above you will find three zip files:
 
 ## InsPLAD-fault
 
+InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped and classified into normal/defective. 
+
+### Properties
+
+<img src="https://i.imgur.com/fz5sAsI.png" width="600">
+
 #### Supervised Fault Classification
 - Image Classification dataset
 - Five assets, 2 to 3 classes each (defect types, e.g., corrosion)
+- Other properties in the table above
 
 <!--
 #### Benchmark
@@ -45,7 +55,10 @@ In the link above you will find three zip files:
 
 #### Unsupervised Anomaly Detection
 - Anomaly Detection dataset
-- Five assets, 2 classes each (normal or anomalous)  
+- Five assets, 2 classes each (normal or anomalous)
+- Other properties in the table above
+
+
 
 <!--
 #### Benchmark
@@ -57,9 +70,7 @@ In the link above you will find three zip files:
 
 <img src="https://i.imgur.com/miLnAKH.png" width="600">
 
-### Properties
 
-<img src="https://i.imgur.com/fz5sAsI.png" width="600">
 
 ## Citing
 
