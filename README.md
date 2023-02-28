@@ -26,7 +26,7 @@ In the link above you will find three zip files:
 
 ### Samples
 
-<img src="https://i.imgur.com/s0ofrRH.png" width="650">
+<img src="https://i.imgur.com/s0ofrRH.png" width="850">
 
 <!--
 #### Benchmark
@@ -68,7 +68,7 @@ InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped a
 
 ### Samples
 
-<img src="https://i.imgur.com/miLnAKH.png" width="650">
+<img src="https://i.imgur.com/miLnAKH.png" width="850">
 
 
 
