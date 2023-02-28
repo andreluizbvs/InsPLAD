@@ -75,8 +75,8 @@ InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped a
 ## Citing
 
 ```
-@misc{vieiraesilva2021stn,
-      title={STN PLAD: A Dataset for Multi-Size Power Line Assets Detection in High-Resolution UAV Images}, 
+@misc{vieiraesilva2023insplad,
+      title={InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images}, 
       author={André Luiz Buarque Vieira-e-Silva and Heitor de Castro Felix and Francisco Paulo Magalhães Simões and Veronica Teichrieb and Michel dos Santos and Hemir Santiago and Virginia Sgotti and Henrique Lott-Neto},
       year={2023},
       eprint={-},
