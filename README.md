@@ -10,7 +10,13 @@ In the link above you will find three zip files:
 - InsPLAD-fault folder:
   - ```supervised_fault_classification.zip``` is an Image Classification dataset for Fault Classification of the Assets
   - ```unsupervised_anomaly_detection.zip``` is an Unsupervised Anomaly Detection dataset also for Fault Classification of the Assets
-  
+
+Here is a straightforward workflow that can be applied when using InsPLAD:
+
+<img src="https://i.imgur.com/P2awEoO.png" width="650">
+
+The black boxes indicate the function of each sub-dataset in the Power line domain and which Computer Vision task (in parentheses) should be used for each sub-dataset.
+
 ## InsPLAD-det
 
 
