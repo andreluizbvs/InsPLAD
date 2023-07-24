@@ -4,12 +4,12 @@ This repository stores InsPLAD, a dataset presented in "**InsPLAD: A Dataset and
 
 You can download the dataset [**here**](https://drive.google.com/drive/folders/1psHiRyl7501YolnCcB8k55rTuAUcR9Ak?usp=sharing) (Google Drive). Labels, when applicable, are in the zip files.
 
-In the link above you will find three zip files:
+**THREE datasets in one**. In the link above you will find three zip files:
 
-- ```InsPLAD-det.zip``` is an Object Detection dataset for Asset detection
+- ```InsPLAD-det.zip``` is an **Object Detection dataset** for Asset detection
 - InsPLAD-fault folder:
-  - ```supervised_fault_classification.zip``` is an Image Classification dataset for Fault Classification of the Assets
-  - ```unsupervised_anomaly_detection.zip``` is an Unsupervised Anomaly Detection dataset also for Fault Classification of the Assets
+  - ```supervised_fault_classification.zip``` is an **Image Classification dataset** for Fault Classification of the Assets
+  - ```unsupervised_anomaly_detection.zip``` is an **Unsupervised Anomaly Detection dataset** also for Fault Classification of the Assets
 
 Here is a straightforward workflow that can be applied when using InsPLAD:
 
@@ -17,7 +17,7 @@ Here is a straightforward workflow that can be applied when using InsPLAD:
 
 The black boxes indicate the function of each sub-dataset in the Power line domain and which Computer Vision task (in parentheses) should be used for each sub-dataset.
 
-## InsPLAD-det
+## 1. InsPLAD-det
 
 
 ### Properties
@@ -40,7 +40,7 @@ The black boxes indicate the function of each sub-dataset in the Power line doma
 <img src="https://i.imgur.com/UxyGAqg.png" width="600"> 
 -->
 
-## InsPLAD-fault
+## 2. InsPLAD-fault
 
 InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped and classified into normal/defective. 
 
@@ -48,7 +48,7 @@ InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped a
 
 <img src="https://i.imgur.com/fz5sAsI.png" width="650">
 
-#### Supervised Fault Classification
+### 2.1 Supervised Fault Classification
 - Image Classification dataset
 - Five assets, 2 to 3 classes each (defect types, e.g., corrosion)
 - Other properties in the table above
@@ -59,7 +59,7 @@ InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped a
 <img src="https://i.imgur.com/HkRHjJD.png" width="600">
 -->
 
-#### Unsupervised Anomaly Detection
+### 2.2 Unsupervised Anomaly Detection
 - Anomaly Detection dataset
 - Five assets, 2 classes each (normal or anomalous)
 - Other properties in the table above
