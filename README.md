@@ -77,16 +77,3 @@ InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped a
 <img src="https://i.imgur.com/miLnAKH.png" width="850">
 
 
-
-## Citing
-
-```
-@misc{vieiraesilva2023insplad,
-      title={InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images}, 
-      author={André Luiz Buarque Vieira-e-Silva and Heitor de Castro Felix and Francisco Paulo Magalhães Simões and Veronica Teichrieb and Michel dos Santos and Hemir Santiago and Virginia Sgotti and Henrique Lott-Neto},
-      year={2023},
-      eprint={-},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
