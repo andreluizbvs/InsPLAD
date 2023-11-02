@@ -11,6 +11,12 @@ You can download the dataset [**here**](https://drive.google.com/drive/folders/1
   - ```supervised_fault_classification.zip``` is an **Image Classification** dataset for Fault Classification of the Assets
   - ```unsupervised_anomaly_detection.zip``` is an **Unsupervised Anomaly Detection** dataset also for Fault Classification of the Assets
 
+Here is a straightforward workflow that can be applied when using InsPLAD:
+
+<img src="https://i.imgur.com/P2awEoO.png" width="650">
+
+The black boxes indicate the function of each sub-dataset in the Power line domain and which Computer Vision task (in parentheses) should be used for each sub-dataset.
+
 ## Citing
 If you use InsPLAD in your research, please cite it:
 ```
@@ -22,14 +28,7 @@ If you use InsPLAD in your research, please cite it:
 }
 ```
 
-Here is a straightforward workflow that can be applied when using InsPLAD:
-
-<img src="https://i.imgur.com/P2awEoO.png" width="650">
-
-The black boxes indicate the function of each sub-dataset in the Power line domain and which Computer Vision task (in parentheses) should be used for each sub-dataset.
-
 ## 1. InsPLAD-det
-
 
 ### Properties
 - Object Detection dataset
