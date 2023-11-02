@@ -4,7 +4,7 @@ This repository stores InsPLAD, a dataset introduced in "_InsPLAD: A Dataset and
 
 You can download the dataset [**here**](https://drive.google.com/drive/folders/1psHiRyl7501YolnCcB8k55rTuAUcR9Ak?usp=drive_link) (Google Drive). Labels, when applicable, are in the zip files.
 
-**THREE datasets in one**. In the link above, you will find three zip files:
+**Three datasets in one**. In the link above, you will find three zip files:
 
 - ```InsPLAD-det.zip``` is an **Object Detection** dataset for Asset detection
 - InsPLAD-fault folder:
