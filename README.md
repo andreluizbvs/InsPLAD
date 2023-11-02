@@ -4,12 +4,23 @@ This repository stores InsPLAD, a dataset introduced in "_InsPLAD: A Dataset and
 
 You can download the dataset [**here**](https://drive.google.com/drive/folders/17aQp_yx3hHAIOIDwjHnnl2oMu4pDQI1L?usp=sharing) (Google Drive). Labels, when applicable, are in the zip files.
 
-**THREE datasets in one**. In the link above you will find three zip files:
+**THREE datasets in one**. In the link above, you will find three zip files:
 
 - ```InsPLAD-det.zip``` is an **Object Detection** dataset for Asset detection
 - InsPLAD-fault folder:
   - ```supervised_fault_classification.zip``` is an **Image Classification** dataset for Fault Classification of the Assets
   - ```unsupervised_anomaly_detection.zip``` is an **Unsupervised Anomaly Detection** dataset also for Fault Classification of the Assets
+
+## Citing
+If you use InsPLAD in your research, please cite it:
+```
+@misc{vieiraesilva2023insplad,
+  author       = {{Vieira e Silva}, André Luiz Buarque and Felix, Heitor de Castro and Simões, Francisco Paulo Magalhães and Teichrieb, Veronica and dos Santos, Michel and Santiago, Hemir and Sgotti, Virginia and Lott Neto, Henrique},
+  title        = "InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images",
+  year         = "2023",
+  note         = "This article has been accepted for publication in the International Journal of Remote Sensing, published by Taylor & Francis.",
+}
+```
 
 Here is a straightforward workflow that can be applied when using InsPLAD:
 
