@@ -21,12 +21,12 @@ The black boxes indicate the function of each sub-dataset in the Power line doma
 If you use InsPLAD in your research, please cite it:
 ```
 @article{vieiraesilva2023insplad,
-  title   = {{InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images}},
-  author  = {{Vieira e Silva}, André Luiz Buarque and de Castro Felix, Heitor and Simões, Francisco and Teichrieb, Veronica and dos Santos, Michel Mozinho and Santiago, Hemir and Sgotti, Virginia and Lott Neto, Henrique},
-  journal = {International Journal of Remote Sensing},
-  pages   = {(to appear)},
-  note    = {Accepted},
-  year    = {2023}
+    title   = {{InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images}},
+    author  = {{Vieira e Silva}, André Luiz Buarque and de Castro Felix, Heitor and Simões, Francisco and Teichrieb, Veronica and dos Santos, Michel Mozinho and Santiago, Hemir and Sgotti, Virginia and Lott Neto, Henrique},
+    journal = {International Journal of Remote Sensing},
+    pages   = {(to appear)},
+    note    = {Accepted},
+    year    = {2023}
 }
 
 @InProceedings{Vieira_2024_WACV,
