@@ -20,11 +20,24 @@ The black boxes indicate the function of each sub-dataset in the Power line doma
 ## Citing
 If you use InsPLAD in your research, please cite it:
 ```
-@misc{vieiraesilva2023insplad,
-  author       = {{Vieira e Silva}, André Luiz Buarque and Felix, Heitor de Castro and Simões, Francisco Paulo Magalhães and Teichrieb, Veronica and dos Santos, Michel and Santiago, Hemir and Sgotti, Virginia and Lott Neto, Henrique},
-  title        = "InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images",
-  year         = "2023",
-  note         = "This article has been accepted for publication in the International Journal of Remote Sensing, published by Taylor & Francis.",
+@article{vieiraesilva2023insplad,
+  title={{InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images}},
+  author={{Vieira e Silva}, André Luiz Buarque and de Castro Felix, Heitor and Simões, Francisco and Teichrieb, Veronica and dos Santos, Michel Mozinho and Santiago, Hemir and Sgotti, Virginia and Lott Neto, Henrique},
+  journal={International Journal of Remote Sensing},
+  volume={},
+  number={},
+  pages={(to appear)},
+  note={Accepted},
+  year={2023}
+}
+
+@InProceedings{Vieira_2024_WACV,
+    author    = {{Vieira e Silva}, André Luiz Buarque and Simões, Francisco and Kowerko, Danny and Schlosser, Tobias and Battisti, Felipe and Teichrieb, Veronica},
+    title     = {Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2024},
+    pages     = {(to appear)}
 }
 ```
 
