@@ -24,8 +24,6 @@ If you use InsPLAD in your research, please cite it:
   title={{InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images}},
   author={{Vieira e Silva}, André Luiz Buarque and de Castro Felix, Heitor and Simões, Francisco and Teichrieb, Veronica and dos Santos, Michel Mozinho and Santiago, Hemir and Sgotti, Virginia and Lott Neto, Henrique},
   journal={International Journal of Remote Sensing},
-  volume={},
-  number={},
   pages={(to appear)},
   note={Accepted},
   year={2023}
