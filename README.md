@@ -17,27 +17,6 @@ Here is a straightforward workflow that can be applied when using InsPLAD:
 
 The black boxes indicate the function of each sub-dataset in the Power line domain and which Computer Vision task (in parentheses) should be used for each sub-dataset.
 
-## Citing
-If you use InsPLAD in your research, please cite it:
-```
-@article{doi:10.1080/01431161.2023.2283900,
-    author  = {Vieira e Silva,André Luiz and Felix,Heitor and Simões,Francisco Paulo and Teichrieb,Veronica and dos Santos,Michel and Santiago,Hemir and Sgotti,Virgínia and Lott Neto,Henrique},
-    title   = {InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images},
-    journal = {International Journal of Remote Sensing},
-    year    = {2023},
-    doi     = {10.1080/01431161.2023.2283900},
-}
-
-@InProceedings{Vieira_2024_WACV,
-    author    = {{Vieira e Silva}, André Luiz Buarque and Simões, Francisco and Kowerko, Danny and Schlosser, Tobias and Battisti, Felipe and Teichrieb, Veronica},
-    title     = {Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study},
-    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-    month     = {January},
-    year      = {2024},
-    pages     = {(to appear)}
-}
-```
-
 ## 1. InsPLAD-det
 
 ### Properties
@@ -96,4 +75,23 @@ InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped a
 
 <img src="https://i.imgur.com/miLnAKH.png" width="850">
 
+## Citing
+If you use InsPLAD in your research, please cite it:
+```
+@article{doi:10.1080/01431161.2023.2283900,
+    author  = {Vieira e Silva,André Luiz and Felix,Heitor and Simões,Francisco Paulo and Teichrieb,Veronica and dos Santos,Michel and Santiago,Hemir and Sgotti,Virgínia and Lott Neto,Henrique},
+    title   = {InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images},
+    journal = {International Journal of Remote Sensing},
+    year    = {2023},
+    doi     = {10.1080/01431161.2023.2283900},
+}
 
+@InProceedings{Vieira_2024_WACV,
+    author    = {{Vieira e Silva}, André Luiz Buarque and Simões, Francisco and Kowerko, Danny and Schlosser, Tobias and Battisti, Felipe and Teichrieb, Veronica},
+    title     = {Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2024},
+    pages     = {(to appear)}
+}
+```
