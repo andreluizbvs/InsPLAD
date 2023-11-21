@@ -1,10 +1,123 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+
 <head>
-  <title>My Website</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- bootswatch css -->
+	<link rel="stylesheet" href="bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+	<style>
+		body {
+			padding-top: 5rem;
+		}
+		.starter-template {
+			padding: 3rem 1.5rem;
+		}
+	</style>
+
+	<title>MIAD</title>
 </head>
+
 <body>
-  <h1>Welcome to My Website</h1>
-  <p>This is the homepage of my personal website.</p>
+<div class="container-fluid" style="max-width:900px;margin-left:auto;margin-right:auto;">
+	<div class="row">
+		<h4 class="display-4" style="text-align:center;">InsPLAD: Inspection of Power Line Assets Dataset </h4><br>
+	</div>
+	<br>
+	<div class="row justify-content-md-center">
+		<h5>André Luiz Buarque Vieira e Silva &emsp; Heitor Felix &emsp; Francisco Simões &emsp; Veronica Teichrieb &emsp; Michel dos Santos &emsp; Hemir Santiago</a>&emsp; Virgínia Sgotti &emsp; Henrique Lott Neto</h5>
+	</div>
+	<br>
+	<div class="row justify-content-md-center">
+		<h4>[<a href="https://arxiv.org/abs/2311.01619">InsPLAD Paper</a>]</h4>
+	</div>
+	<br>
+  <div class="row justify-content-md-center">
+		<h4>[<a href="https://arxiv.org/abs/2311.02747">AttentDifferNet Paper</a>]</h4>
+	</div>
+	<br>
+	<div class="row justify-content-md-center">
+		<div class="col-md-12 text-center">
+			<h3 class="display-5" style="color: gray">International Journal of Remote Sensing</h3>
+		</div>
+	</div> 
+	<br>
+	<div class="row">
+		<img src="insplad.png" class="img-responsive" alt="overview" style="width: 100%; padding: 15px"><br>
+		<div class="col">
+			<h3 style="text-align: left;">
+				Abstract
+			</h3>
+			<p class="text-justify">
+				Power line maintenance and inspection are essential to avoid power supply interruptions, reducing its high social and financial impacts yearly. Automating power line visual inspections remains a relevant open problem for the industry due to the lack of public real-world datasets of power line components and their various defects to foster new research. This paper introduces InsPLAD, a Power Line Asset Inspection Dataset and Benchmark containing 10,607 high-resolution Unmanned Aerial Vehicles colour images. The dataset contains seventeen unique power line assets captured from real-world operating power lines. Additionally, five of those assets present six defects: four of which are corrosion, one is a broken component, and one is a bird's nest presence. All assets were labelled according to their condition, whether normal or the defect name found on an image level. We thoroughly evaluate state-of-the-art and popular methods for three image-level computer vision tasks covered by InsPLAD: object detection, through the AP metric; defect classification, through Balanced Accuracy; and anomaly detection, through the AUROC metric. InsPLAD offers various vision challenges from uncontrolled environments, such as multi-scale objects, multi-size class instances, multiple objects per image, intra-class variation, cluttered background, distinct point-of-views, perspective distortion, occlusion, and varied lighting conditions. To the best of our knowledge, InsPLAD is the first large real-world dataset and benchmark for power line asset inspection with multiple components and defects for various computer vision tasks, with a potential impact to improve state-of-the-art methods in the field. It will be publicly available in its integrity on a repository with a thorough description.
+			</p>
+		</div>
+	</div>
+<!-- 	<div class="row justify-content-md-center" id="data"> -->
+	<div class="row">
+		<div class="col">
+			<h3 style="text-align: left;">
+				Data
+			</h3>
+			<div>
+				InsPLAD is three datasets in one. Each one related to a different computer vision task:
+				<ul>
+					<li>
+						Object Detection <a href="https://drive.google.com/file/d/1Mu50QxKQ4NeLEhjEsTenLU97FxSd_HKD/view?usp=sharing" style="color:#007bff;">【Google Drive】</a>.
+					</li>
+					<li>
+						Image Classification <a href="https://drive.google.com/file/d/1Te3jRRM9gJXO8PwOoOoCPGY69Pq6YHUb/view?usp=sharing" style="color:#007bff;">【Google Drive】</a>.
+					</li>
+          <li>
+						Unsupervised Anomaly Detection <a href="https://drive.google.com/file/d/1b_-gtyjMeO-Ndu_OaPrrSgSTwa31TWVz/view?usp=sharing" style="color:#007bff;">【Google Drive】</a>.
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col">
+			<h3 style="text-align: left;">
+				PLEASE NOTE: LICENSE TERMS & ATTRIBUTION
+			</h3>
+			<p class="text-justify">
+				The data is released under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> (CC BY-NC-SA 4.0).
+
+                                In particular, it is not allowed to use the dataset for commercial purposes. If you are unsure whether or not your application violates the non-commercial use clause of the license, please contact us.
+			</p>
+		</div>
+	</div>
+	
+	<br>
+	<div class="row">
+		<div class="col">
+			<h3 style="text-align: left;">
+				If you use InsPLAD in your research, please cite it:
+
+<br>
+			</h3>
+			<p class="text-justify">
+				@article{doi:10.1080/01431161.2023.2283900,
+            author  = {Vieira e Silva,André Luiz and Felix,Heitor and Simões,Francisco Paulo and Teichrieb,Veronica and dos Santos,Michel and Santiago,Hemir and Sgotti,Virgínia and Lott Neto,Henrique},
+            title   = {InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images},
+            journal = {International Journal of Remote Sensing},
+            year    = {2023},
+            doi     = {10.1080/01431161.2023.2283900},
+        }
+        
+        @InProceedings{Vieira_2024_WACV,
+            author    = {{Vieira e Silva}, André Luiz Buarque and Simões, Francisco and Kowerko, Danny and Schlosser, Tobias and Battisti, Felipe and Teichrieb, Veronica},
+            title     = {Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study},
+            booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+            month     = {January},
+            year      = {2024},
+            pages     = {(to appear)}
+        }
+			</p>
+		</div>
+	</div>
 </body>
 </html>
