@@ -34,6 +34,7 @@ The black boxes indicate the function of each sub-dataset in the Power line doma
 
 
 ### Samples
+Different bounding box colors mean different classes (not normal/defective objects)
 
 <img src="https://i.imgur.com/s0ofrRH.png" width="850">
 
@@ -76,8 +77,9 @@ InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped a
 -->
 
 ### Samples
+Normal on top in green and defective at the bottom in red
 
-<img src="https://i.imgur.com/miLnAKH.png" width="850">
+<img src="https://i.imgur.com/Ocq2kl7.png" width="1000">
 
 ## Citing
 If you use InsPLAD in your research, please cite it:
