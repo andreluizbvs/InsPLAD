@@ -1,6 +1,6 @@
 # InsPLAD: Inspection of Power Line Assets Dataset
 
-This repository stores InsPLAD, a dataset introduced in "_InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images_" [arXiv](https://arxiv.org/abs/2311.01619). InsPLAD is also used in "_Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study_" [arXiv](https://arxiv.org/abs/2311.02747).
+This repository stores InsPLAD, a dataset introduced in "_InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images_" [IJRS](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2283900) | [arXiv](https://arxiv.org/abs/2311.01619). InsPLAD is also used in "_Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study_" [arXiv](https://arxiv.org/abs/2311.02747).
 
 ## Abstract
 
@@ -85,11 +85,17 @@ Normal on top in green and defective at the bottom in red
 If you use InsPLAD in your research, please cite it:
 ```
 @article{doi:10.1080/01431161.2023.2283900,
-    author  = {Vieira e Silva, André Luiz and Felix, Heitor and Simões, Francisco and Teichrieb, Veronica and dos Santos, Michel and Santiago, Hemir and Sgotti, Virgínia and Lott Neto, Henrique},
-    title   = {InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images},
-    journal = {International Journal of Remote Sensing},
-    year    = {2023},
-    doi     = {10.1080/01431161.2023.2283900},
+   author    = {André Luiz Buarque Vieira e Silva, Heitor de Castro Felix, Franscisco Paulo Magalhães Simões, Veronica Teichrieb, Michel dos Santos, Hemir Santiago, Virginia Sgotti and Henrique Lott Neto},
+   title     = {InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images},
+   journal   = {International Journal of Remote Sensing},
+   volume    = {0},
+   number    = {0},
+   pages     = {1-27},
+   year      = {2023},
+   publisher = {Taylor & Francis},
+   doi       = {10.1080/01431161.2023.2283900},
+   URL       = {https://doi.org/10.1080/01431161.2023.2283900},
+   eprint    = {https://doi.org/10.1080/01431161.2023.2283900},
 }
 
 @InProceedings{Vieira_2024_WACV,
