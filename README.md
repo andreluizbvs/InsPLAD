@@ -77,7 +77,7 @@ InsPLAD-fault is generated from InsPLAD-det. The annotated objects are cropped a
 -->
 
 ### Samples
-Normal on top in green and defective at the bottom in red
+Normal on top (green frame), and defective at the bottom (red frame)
 
 <img src="https://i.imgur.com/Ocq2kl7.png" width="1000">
 
