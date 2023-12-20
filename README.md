@@ -99,11 +99,11 @@ If you use InsPLAD in your research, please cite it:
 }
 
 @InProceedings{Vieira_2024_WACV,
-    author    = {Vieira e Silva, André Luiz Buarque and Simões, Francisco and Kowerko, Danny and Schlosser, Tobias and Battisti, Felipe and Teichrieb, Veronica},
+    author    = {e Silva, Andr\'e Luiz Vieira and Sim\~oes, Francisco and Kowerko, Danny and Schlosser, Tobias and Battisti, Felipe and Teichrieb, Veronica},
     title     = {Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study},
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     month     = {January},
     year      = {2024},
-    pages     = {(to appear)}
+    pages     = {8246-8255}
 }
 ```
