@@ -1,6 +1,6 @@
 # InsPLAD: Inspection of Power Line Assets Dataset
 
-This repository stores InsPLAD, a dataset introduced in "_InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images_" [IJRS](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2283900) | [arXiv](https://arxiv.org/abs/2311.01619). InsPLAD is also used in "_Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study_" [arXiv](https://arxiv.org/abs/2311.02747).
+This repository stores InsPLAD, a dataset introduced in "_InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images_" [IJRS](https://www.tandfonline.com/doi/full/10.1080/01431161.2023.2283900) | [arXiv](https://arxiv.org/abs/2311.01619). InsPLAD is also used in "_Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study_" [WACV2024 CVF](https://openaccess.thecvf.com/content/WACV2024/html/Vieira_e_Silva_Attention_Modules_Improve_Image-Level_Anomaly_Detection_for_Industrial_Inspection_A_WACV_2024_paper.html) | [arXiv](https://arxiv.org/abs/2311.02747).
 
 ## Abstract
 
