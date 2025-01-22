@@ -81,6 +81,12 @@ Normal on top (green frame), and defective at the bottom (red frame)
 
 <img src="https://i.imgur.com/Ocq2kl7.png" width="1000">
 
+## New project for segmentation
+
+We started a new annotation project for Instance Segmentation (it will be the 4th CV task) here: https://universe.roboflow.com/andreluizbvs/insplad-seg
+When it is finished we will update this repo.
+
+
 ## Citing
 If you use InsPLAD in your research, please cite it:
 ```
