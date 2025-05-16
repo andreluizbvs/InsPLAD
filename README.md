@@ -15,6 +15,11 @@ You can download the dataset [**here**](https://drive.google.com/drive/folders/1
   - ```supervised_fault_classification.zip``` is an **Image Classification** dataset for Fault Classification of the Assets
   - ```unsupervised_anomaly_detection.zip``` is an **Unsupervised Anomaly Detection** dataset also for Fault Classification of the Assets
 
+## >> Edit: Pixel-level annotations <<
+
+We initiated pixel-level annotations here: https://universe.roboflow.com/andreluizbvs/insplad-seg
+## >> End of edit <<
+
 Here is a straightforward workflow that can be applied when using InsPLAD:
 
 <img src="https://i.imgur.com/P2awEoO.png" width="650">
